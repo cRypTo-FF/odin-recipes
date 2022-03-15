@@ -10,5 +10,5 @@ The different types of front-end technologies are:
  
 4. Git and Github: Main purpose of the git is Version control. This helps in tracking all the previous changes to a file or Code. Git allows parallel branching that helps in creating separate versions of pfile and modify it without affecting the original file when the necessary changes are made the altered file can be merged with original to make necessary changes. This feature is further enhanced with help of GitHub. Github provides a collaborative feature where multiple people can independently work on the same file without worrying about overriding a single file. Many people can work on the same file to project simultaneously. which helps in increasing productivity.
  
- 
+Current project is about developing a website that includes various hyperlinks to other webpages that contains on  how to prepare authentic south Indian  Dishes.
 
